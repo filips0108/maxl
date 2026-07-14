@@ -73,4 +73,9 @@ MIT License - see `LICENSE` file for details.
 
 Feel free to open issues or submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+## Contact
+
+Please contact me with this form:
+[maxl Form](https://forms.gle/71pjiVShYwgzrAFH7)
+
 i hate writing so heres what AI said to put. :)
