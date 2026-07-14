@@ -9,25 +9,9 @@
                 "id": "00",
                 "type": "file",
                 "content": [
-                    "PRVA LINIJA TEKSTA PRIKAZANA!!!!",
-                    "PRVA LINIJA TEKSTA PRIKAZANA!!!!"
-                ]
-            },
-            {
-                "name": "test",
-                "id": "01",
-                "type": "file",
-                "content": [
-                    "proba za novi sistem komandi",
-                    "druga proba za novi sistem komandi"
+                    "hello :)"
                 ]
             }
         ]
-    },
-    {
-        "name": "other",
-        "id": "1",
-        "type": "file",
-        "children": []
     }
 ]

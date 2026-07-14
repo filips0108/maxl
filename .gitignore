@@ -86,4 +86,5 @@ pip-delete-this-directory.txt
 *.temp
 
 # MaxL specific
-log.txt
+log.txtDISCUSSION_SUMMARY.md
+DISCUSSION_SUMMARY.md
