@@ -1,0 +1,51 @@
+{
+  "help": {
+    "command": "help",
+    "minArgs": 0,
+    "maxArgs": 0,
+    "moduleCommand": "help",
+    "module": "std"
+  },
+  "exit": {
+    "command": "exit",
+    "minArgs": 0,
+    "maxArgs": 0,
+    "moduleCommand": "exit",
+    "module": "std"
+  },
+  "ls": {
+    "command": "ls",
+    "minArgs": 0,
+    "maxArgs": 0,
+    "moduleCommand": "ls",
+    "module": "std"
+  },
+  "get": {
+    "command": "get",
+    "minArgs": 1,
+    "maxArgs": 1,
+    "moduleCommand": "get",
+    "module": "std"
+  },
+  "edit": {
+    "command": "edit",
+    "minArgs": 1,
+    "maxArgs": 1,
+    "moduleCommand": "edit",
+    "module": "std"
+  },
+  "new": {
+    "command": "new",
+    "minArgs": 3,
+    "maxArgs": 3,
+    "moduleCommand": "new",
+    "module": "std"
+  },
+  "calc": {
+    "command": "calc",
+    "minArgs": 1,
+    "maxArgs": 1,
+    "moduleCommand": "calc",
+    "module": "std"
+  }
+}

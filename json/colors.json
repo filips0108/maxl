@@ -1,0 +1,22 @@
+{
+    "logo": 
+    "green",
+    
+    "err": 
+    "red",
+
+    "output": 
+    "grey66",
+
+    "str":
+    "green",
+
+    "int":
+    "blue",
+
+    "content":
+    "grey85",
+
+    "bounders":
+    "yellow"
+}
