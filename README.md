@@ -54,7 +54,7 @@ maxl/
 │   ├── colors.json      # Color/theme definitions
 │   ├── iMem.json        # Simulated filesystem
 │   └── commandDecl.json # Command declarations
-├其他/
+├other/
 │   └── resursi.md       # Link to ASCII art generator
 ├── log.txt              # Simple log file
 ├── setup.py             # Installation script
